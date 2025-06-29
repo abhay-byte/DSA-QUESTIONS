@@ -5,6 +5,7 @@
 - [Introduction](#introduction)
 - [Topics Covered](#topics-covered)
 - [How to Use](#how-to-use)
+- [Solutions](#solutions)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -31,9 +32,20 @@ Welcome! This repository contains solutions to various Data Structures and Algor
 
 ## How to Use
 
-1. Browse the folders by topic.
-2. Each folder contains problem statements and solutions.
-3. Solutions are written in clear, well-commented code.
+1. Browse the repository by folder. Each folder is named after a specific problem or topic.
+2. Inside each folder, you'll find problem statements and their solutions.
+3. Solutions are written in clear, well-commented code, and are organized according to the folder structure.
+
+---
+
+## Solutions
+
+
+- [`1-Fizz-Buzz/1-Fizz-Buzz-O.cpp`](1-Fizz-Buzz/1-Fizz-Buzz-O.cpp)
+- [`2-Count-Odd-Numbers-In-An-Interval-Range/Count-Odd-Numbers-In-An-Interval-Range-BF.cpp`](2-Count-Odd-Numbers-In-An-Interval-Range/Count-Odd-Numbers-In-An-Interval-Range-BF.cpp)
+- [`2-Count-Odd-Numbers-In-An-Interval-Range/Count-Odd-Numbers-In-An-Interval-Range-O.cpp`](2-Count-Odd-Numbers-In-An-Interval-Range/Count-Odd-Numbers-In-An-Interval-Range-O.cpp)
+- [`3-Number-Of-Steps-To-Reduce-A-Number-To-Zero/Number-Of-Steps-To-Reduce-A-Number-To-Zero.cpp`](3-Number-Of-Steps-To-Reduce-A-Number-To-Zero/Number-Of-Steps-To-Reduce-A-Number-To-Zero.cpp)
+
 
 ---
 

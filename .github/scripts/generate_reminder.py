@@ -2,6 +2,9 @@ import os
 import subprocess
 from datetime import datetime, timedelta
 
+# Assumes each .cpp file is in a folder representing the question.
+# Update logic if your repo structure changes.
+
 def get_first_commit_date(filepath):
     try:
         result = subprocess.run(
@@ -13,7 +16,6 @@ def get_first_commit_date(filepath):
     except Exception:
         return None
 
-# Find all .cpp files in subfolders (questions)
 questions = []
 for root, dirs, files in os.walk("."):
     for file in files:
@@ -26,15 +28,17 @@ for root, dirs, files in os.walk("."):
                 questions.append((question_name, commit_date))
 
 today = datetime.utcnow().date()
-one_week_ago = today - timedelta(days=7)
-four_weeks_ago = today - timedelta(days=28)
 
-week_review = [q for q, d in questions if d == one_week_ago]
-month_review = [q for q, d in questions if d == four_weeks_ago]
+# Use a range to avoid missing questions if workflow timing is off
+week_range = [today - timedelta(days=d) for d in range(6, 9)]    # 6, 7, 8 days ago
+month_range = [today - timedelta(days=d) for d in range(27, 30)] # 27, 28, 29 days ago
+
+week_review = [q for q, d in questions if d in week_range]
+month_review = [q for q, d in questions if d in month_range]
 
 with open("reminder.md", "w") as f:
     f.write("# DSA Questions Review Reminder\n\n")
-    f.write(f"## Questions to review (1 week ago: {one_week_ago}):\n\n")
+    f.write(f"## Questions to review (about 1 week ago):\n\n")
     if week_review:
         f.write("| Question |\n|---|\n")
         for q in week_review:
@@ -42,7 +46,7 @@ with open("reminder.md", "w") as f:
     else:
         f.write("_No questions to review for 1 week interval._\n")
 
-    f.write(f"\n## Questions to review (1 month ago: {four_weeks_ago}):\n\n")
+    f.write(f"\n## Questions to review (about 1 month ago):\n\n")
     if month_review:
         f.write("| Question |\n|---|\n")
         for q in month_review:

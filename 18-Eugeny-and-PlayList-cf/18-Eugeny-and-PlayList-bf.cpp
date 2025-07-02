@@ -4,6 +4,23 @@
 #include<vector>
 using namespace std;
 
+/*
+Problem: Eugeny and Playlist (Codeforces 302A)
+
+Time Complexity: O(n * m)
+- For each of the m moments, we may iterate through up to n songs.
+
+Space Complexity: O(n + m)
+- We store the song list and the moments.
+
+Approach:
+- For each moment, iterate through the playlist, summing up the total time.
+- When the cumulative time reaches or exceeds the moment, output the current song index.
+
+Link: https://codeforces.com/problemset/problem/302/A
+*/
+
+
 void FindSongPlayedOnMoment(vector<vector<int>> pair, vector<int> moments)
 {
 

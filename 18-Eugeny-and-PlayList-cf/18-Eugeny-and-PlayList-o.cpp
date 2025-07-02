@@ -4,6 +4,23 @@
 #include<vector>
 using namespace std;
 
+/*
+Problem: Eugeny and Playlist (Codeforces 302A)
+
+Time Complexity: O(n + m log n)
+- Building the prefix sum array for song end times takes O(n).
+- For each of the m queries, binary search is used, taking O(log n) per query.
+
+Space Complexity: O(n + m)
+- Stores prefix sums for n songs and m query moments.
+
+Approach:
+- For each song, calculate its total duration and build a prefix sum array representing the end time of each song.
+- For each query moment, use binary search to find which song is playing at that moment.
+
+Link: https://codeforces.com/problemset/problem/302/A
+*/
+
 void FindSongPlayedOnMoment(vector<vector<int>> pair, vector<int> moments)
 {
     vector<int> songsPlayedAtMoment;

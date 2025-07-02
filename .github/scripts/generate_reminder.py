@@ -1,6 +1,6 @@
 import os
 import subprocess
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 # Assumes each .cpp file is in a folder representing the question.
 # Update logic if your repo structure changes.
@@ -27,7 +27,7 @@ for root, dirs, files in os.walk("."):
             if commit_date:
                 questions.append((question_name, commit_date))
 
-today = datetime.utcnow().date()
+today = datetime.now(timezone.utc).date()
 
 # Use a range to avoid missing questions if workflow timing is off
 week_range = [today - timedelta(days=d) for d in range(6, 9)]    # 6, 7, 8 days ago

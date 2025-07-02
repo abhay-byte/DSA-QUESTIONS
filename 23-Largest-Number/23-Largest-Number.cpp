@@ -19,7 +19,7 @@ Approach:
 - Concatenate the sorted strings.
 - Handle the case where the result is all zeros.
 
-Result:
+Result: Runtime 3ms Memory 17.10MB
 Link: https://leetcode.com/problems/largest-number/
 */
 static bool cmp(const string &a, const string &b)

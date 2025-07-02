@@ -3,36 +3,16 @@
 #include <string>
 #include <vector>
 using namespace std;
-/*
-Problem: 23-Largest-Number (LeetCode 179)
 
-Time Complexity: O(n log n)
-- n is the number of elements in the input vector.
-- Sorting the numbers with a custom comparator dominates the complexity.
-
-Space Complexity: O(n)
-- Additional space is used to store the string representations of the numbers.
-
-Approach:
-- Convert all integers to strings.
-- Sort the strings using a custom comparator so that the concatenation of the result forms the largest number.
-- Concatenate the sorted strings.
-- Handle the case where the result is all zeros.
-
-Result:
-Link: https://leetcode.com/problems/largest-number/
-*/
-static bool cmp(const string &a, const string &b)
-{
-        return a + b > b + a;
+static bool cmp(const string &a, const string &b) {
+    return a + b > b + a;
 }
-class Solution
-{
-public:
 
-    string largestNumber(vector<int> &nums)
-    {
+class Solution {
+public:
+    string largestNumber(vector<int> &nums) {
         vector<string> numStrs;
+        numStrs.reserve(nums.size());
         for (int num : nums)
             numStrs.push_back(to_string(num));
 
@@ -41,7 +21,12 @@ public:
         if (numStrs[0] == "0")
             return "0";
 
+        size_t totalLen = 0;
+        for (const string &s : numStrs)
+            totalLen += s.size();
+
         string result;
+        result.reserve(totalLen);
         for (const string &s : numStrs)
             result += s;
 

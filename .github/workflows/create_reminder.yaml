@@ -24,7 +24,7 @@ jobs:
       - name: Move reminders.md to /reminder/
         run: |
           mkdir -p reminder
-          mv .github/scripts/reminders.md reminder/reminders.md
+          mv reminders.md reminder/reminders.md
 
       - name: Commit and push reminders.md
         uses: stefanzweifel/git-auto-commit-action@v5

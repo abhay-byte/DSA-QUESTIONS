@@ -18,7 +18,7 @@ def get_folder_commit_date(base_path, folder):
         date_str = result.stdout.strip().splitlines()
         if date_str:
             # Use the first commit date (ISO 8601 format)
-            return datetime.fromisoformat(date_str[-1])
+            return datetime.fromisoformat(date_str[0])
     except Exception as e:
         pass
     return None
@@ -39,26 +39,22 @@ def format_reminder(folder, revisit_date, period):
 def main():
     base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
     folders = get_question_folders(base_path)
-    reminders = []
+    if not folders:
+        print("No folders found.")
+        return
 
-    for folder, created_date in folders:
-        week_later = created_date + timedelta(weeks=1)
-        month_later = created_date + timedelta(days=30)
-        reminders.append(format_reminder(folder, week_later, "1 week"))
-        reminders.append(format_reminder(folder, month_later, "1 month"))
-
-    # Sort reminders in ascending order by revisit date
+    today_date = datetime.today()
     reminders_with_dates = []
-    for folder, created_date in folders:
-        week_later = created_date + timedelta(weeks=1)
-        month_later = created_date + timedelta(days=30)
-        two_months_later = created_date + timedelta(days=60)
+    for folder, _ in folders:
+        week_later = today_date + timedelta(weeks=1)
+        month_later = today_date + timedelta(days=30)
+        two_months_later = today_date + timedelta(days=60)
         reminders_with_dates.append((week_later, folder, "1st review"))
         reminders_with_dates.append((month_later, folder, "2nd review"))
         reminders_with_dates.append((two_months_later, folder, "3rd review"))
 
     # Filter out past reminders and mark completed
-    today = datetime.today().date()
+    today = today_date.date()
     upcoming_reminders = []
     completed_reminders = []
     for revisit_date, folder, review_label in reminders_with_dates:
@@ -96,6 +92,8 @@ def main():
                 date_str = revisit_date.strftime('%Y-%m-%d')
                 folder_path = os.path.join(".", folder)
                 f.write(f"| {date_str} | [`{folder}`]({folder_path}) | {review_label} |\n")
+
+    print(f"Reminders written to {reminder_file}")
 
     print(f"Reminders written to {reminder_file}")
 

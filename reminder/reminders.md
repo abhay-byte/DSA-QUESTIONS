@@ -2,80 +2,80 @@
 
 > _Stay sharp! Here are your upcoming revisit reminders._
 
-| Date | Folder | Review | Days Left |
-|------|--------|--------|-----------|
-| 2025-07-10 | [`1-Fizz-Buzz`](./1-Fizz-Buzz) | 1st review | **7 days** |
-| 2025-07-10 | [`11-palindrome-number`](./11-palindrome-number) | 1st review | **7 days** |
-| 2025-07-10 | [`19-Way-Too-Long-Words-cf`](./19-Way-Too-Long-Words-cf) | 1st review | **7 days** |
-| 2025-07-10 | [`9-how-many-numbers-are-smaller-than-the-current-number`](./9-how-many-numbers-are-smaller-than-the-current-number) | 1st review | **7 days** |
-| 2025-07-10 | [`25-find-pivot-index`](./25-find-pivot-index) | 1st review | **7 days** |
-| 2025-07-10 | [`6-maximum-number-of-words-you-can-type`](./6-maximum-number-of-words-you-can-type) | 1st review | **7 days** |
-| 2025-07-10 | [`14-remove-duplicates-from-sorted-array`](./14-remove-duplicates-from-sorted-array) | 1st review | **7 days** |
-| 2025-07-10 | [`8-running-sum-of-1d-array`](./8-running-sum-of-1d-array) | 1st review | **7 days** |
-| 2025-07-10 | [`17-Generous-Kefa-cf`](./17-Generous-Kefa-cf) | 1st review | **7 days** |
-| 2025-07-10 | [`7-sum-of-all-odd-length-subarrays`](./7-sum-of-all-odd-length-subarrays) | 1st review | **7 days** |
-| 2025-07-10 | [`12-roman-to-integer`](./12-roman-to-integer) | 1st review | **7 days** |
-| 2025-07-10 | [`5-find-numbers-with-even-number-of-digits`](./5-find-numbers-with-even-number-of-digits) | 1st review | **7 days** |
-| 2025-07-10 | [`15-valid-parentheses`](./15-valid-parentheses) | 1st review | **7 days** |
-| 2025-07-10 | [`4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer`](./4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer) | 1st review | **7 days** |
-| 2025-07-10 | [`18-Eugeny-and-PlayList-cf`](./18-Eugeny-and-PlayList-cf) | 1st review | **7 days** |
-| 2025-07-10 | [`24-longest-subarray-of-1s-after-deleting-one-element`](./24-longest-subarray-of-1s-after-deleting-one-element) | 1st review | **7 days** |
-| 2025-07-10 | [`13-longest-common-prefix`](./13-longest-common-prefix) | 1st review | **7 days** |
-| 2025-07-10 | [`10-build-array-from-permutation`](./10-build-array-from-permutation) | 1st review | **7 days** |
-| 2025-07-10 | [`22-Next-Round-cf`](./22-Next-Round-cf) | 1st review | **7 days** |
-| 2025-07-10 | [`2-Count-Odd-Numbers-In-An-Interval-Range`](./2-Count-Odd-Numbers-In-An-Interval-Range) | 1st review | **7 days** |
-| 2025-07-10 | [`3-Number-Of-Steps-To-Reduce-A-Number-To-Zero`](./3-Number-Of-Steps-To-Reduce-A-Number-To-Zero) | 1st review | **7 days** |
-| 2025-07-10 | [`21-A-Team-cf`](./21-A-Team-cf) | 1st review | **7 days** |
-| 2025-07-10 | [`16-watermelon-cf`](./16-watermelon-cf) | 1st review | **7 days** |
-| 2025-07-10 | [`23-Largest-Number`](./23-Largest-Number) | 1st review | **7 days** |
-| 2025-07-10 | [`20-Young-Physicist-cf`](./20-Young-Physicist-cf) | 1st review | **7 days** |
-| 2025-08-02 | [`1-Fizz-Buzz`](./1-Fizz-Buzz) | 2nd review | **30 days** |
-| 2025-08-02 | [`11-palindrome-number`](./11-palindrome-number) | 2nd review | **30 days** |
-| 2025-08-02 | [`19-Way-Too-Long-Words-cf`](./19-Way-Too-Long-Words-cf) | 2nd review | **30 days** |
-| 2025-08-02 | [`9-how-many-numbers-are-smaller-than-the-current-number`](./9-how-many-numbers-are-smaller-than-the-current-number) | 2nd review | **30 days** |
-| 2025-08-02 | [`25-find-pivot-index`](./25-find-pivot-index) | 2nd review | **30 days** |
-| 2025-08-02 | [`6-maximum-number-of-words-you-can-type`](./6-maximum-number-of-words-you-can-type) | 2nd review | **30 days** |
-| 2025-08-02 | [`14-remove-duplicates-from-sorted-array`](./14-remove-duplicates-from-sorted-array) | 2nd review | **30 days** |
-| 2025-08-02 | [`8-running-sum-of-1d-array`](./8-running-sum-of-1d-array) | 2nd review | **30 days** |
-| 2025-08-02 | [`17-Generous-Kefa-cf`](./17-Generous-Kefa-cf) | 2nd review | **30 days** |
-| 2025-08-02 | [`7-sum-of-all-odd-length-subarrays`](./7-sum-of-all-odd-length-subarrays) | 2nd review | **30 days** |
-| 2025-08-02 | [`12-roman-to-integer`](./12-roman-to-integer) | 2nd review | **30 days** |
-| 2025-08-02 | [`5-find-numbers-with-even-number-of-digits`](./5-find-numbers-with-even-number-of-digits) | 2nd review | **30 days** |
-| 2025-08-02 | [`15-valid-parentheses`](./15-valid-parentheses) | 2nd review | **30 days** |
-| 2025-08-02 | [`4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer`](./4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer) | 2nd review | **30 days** |
-| 2025-08-02 | [`18-Eugeny-and-PlayList-cf`](./18-Eugeny-and-PlayList-cf) | 2nd review | **30 days** |
-| 2025-08-02 | [`24-longest-subarray-of-1s-after-deleting-one-element`](./24-longest-subarray-of-1s-after-deleting-one-element) | 2nd review | **30 days** |
-| 2025-08-02 | [`13-longest-common-prefix`](./13-longest-common-prefix) | 2nd review | **30 days** |
-| 2025-08-02 | [`10-build-array-from-permutation`](./10-build-array-from-permutation) | 2nd review | **30 days** |
-| 2025-08-02 | [`22-Next-Round-cf`](./22-Next-Round-cf) | 2nd review | **30 days** |
-| 2025-08-02 | [`2-Count-Odd-Numbers-In-An-Interval-Range`](./2-Count-Odd-Numbers-In-An-Interval-Range) | 2nd review | **30 days** |
-| 2025-08-02 | [`3-Number-Of-Steps-To-Reduce-A-Number-To-Zero`](./3-Number-Of-Steps-To-Reduce-A-Number-To-Zero) | 2nd review | **30 days** |
-| 2025-08-02 | [`21-A-Team-cf`](./21-A-Team-cf) | 2nd review | **30 days** |
-| 2025-08-02 | [`16-watermelon-cf`](./16-watermelon-cf) | 2nd review | **30 days** |
-| 2025-08-02 | [`23-Largest-Number`](./23-Largest-Number) | 2nd review | **30 days** |
-| 2025-08-02 | [`20-Young-Physicist-cf`](./20-Young-Physicist-cf) | 2nd review | **30 days** |
-| 2025-09-01 | [`1-Fizz-Buzz`](./1-Fizz-Buzz) | 3rd review | **60 days** |
-| 2025-09-01 | [`11-palindrome-number`](./11-palindrome-number) | 3rd review | **60 days** |
-| 2025-09-01 | [`19-Way-Too-Long-Words-cf`](./19-Way-Too-Long-Words-cf) | 3rd review | **60 days** |
-| 2025-09-01 | [`9-how-many-numbers-are-smaller-than-the-current-number`](./9-how-many-numbers-are-smaller-than-the-current-number) | 3rd review | **60 days** |
-| 2025-09-01 | [`25-find-pivot-index`](./25-find-pivot-index) | 3rd review | **60 days** |
-| 2025-09-01 | [`6-maximum-number-of-words-you-can-type`](./6-maximum-number-of-words-you-can-type) | 3rd review | **60 days** |
-| 2025-09-01 | [`14-remove-duplicates-from-sorted-array`](./14-remove-duplicates-from-sorted-array) | 3rd review | **60 days** |
-| 2025-09-01 | [`8-running-sum-of-1d-array`](./8-running-sum-of-1d-array) | 3rd review | **60 days** |
-| 2025-09-01 | [`17-Generous-Kefa-cf`](./17-Generous-Kefa-cf) | 3rd review | **60 days** |
-| 2025-09-01 | [`7-sum-of-all-odd-length-subarrays`](./7-sum-of-all-odd-length-subarrays) | 3rd review | **60 days** |
-| 2025-09-01 | [`12-roman-to-integer`](./12-roman-to-integer) | 3rd review | **60 days** |
-| 2025-09-01 | [`5-find-numbers-with-even-number-of-digits`](./5-find-numbers-with-even-number-of-digits) | 3rd review | **60 days** |
-| 2025-09-01 | [`15-valid-parentheses`](./15-valid-parentheses) | 3rd review | **60 days** |
-| 2025-09-01 | [`4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer`](./4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer) | 3rd review | **60 days** |
-| 2025-09-01 | [`18-Eugeny-and-PlayList-cf`](./18-Eugeny-and-PlayList-cf) | 3rd review | **60 days** |
-| 2025-09-01 | [`24-longest-subarray-of-1s-after-deleting-one-element`](./24-longest-subarray-of-1s-after-deleting-one-element) | 3rd review | **60 days** |
-| 2025-09-01 | [`13-longest-common-prefix`](./13-longest-common-prefix) | 3rd review | **60 days** |
-| 2025-09-01 | [`10-build-array-from-permutation`](./10-build-array-from-permutation) | 3rd review | **60 days** |
-| 2025-09-01 | [`22-Next-Round-cf`](./22-Next-Round-cf) | 3rd review | **60 days** |
-| 2025-09-01 | [`2-Count-Odd-Numbers-In-An-Interval-Range`](./2-Count-Odd-Numbers-In-An-Interval-Range) | 3rd review | **60 days** |
-| 2025-09-01 | [`3-Number-Of-Steps-To-Reduce-A-Number-To-Zero`](./3-Number-Of-Steps-To-Reduce-A-Number-To-Zero) | 3rd review | **60 days** |
-| 2025-09-01 | [`21-A-Team-cf`](./21-A-Team-cf) | 3rd review | **60 days** |
-| 2025-09-01 | [`16-watermelon-cf`](./16-watermelon-cf) | 3rd review | **60 days** |
-| 2025-09-01 | [`23-Largest-Number`](./23-Largest-Number) | 3rd review | **60 days** |
-| 2025-09-01 | [`20-Young-Physicist-cf`](./20-Young-Physicist-cf) | 3rd review | **60 days** |
+| Date | Folder | Files | Review | Days Left |
+|------|--------|-------|--------|-----------|
+| 2025-07-10 | [`1-Fizz-Buzz`](./1-Fizz-Buzz) | [`1-Fizz-Buzz-O.cpp`](./1-Fizz-Buzz/1-Fizz-Buzz-O.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`11-palindrome-number`](./11-palindrome-number) | [`11-palindrome-number`](./11-palindrome-number/11-palindrome-number)<br>[`11-palindrome-number.cpp`](./11-palindrome-number/11-palindrome-number.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`19-Way-Too-Long-Words-cf`](./19-Way-Too-Long-Words-cf) | [`19-Way-Too-Long-Words.cpp`](./19-Way-Too-Long-Words-cf/19-Way-Too-Long-Words.cpp)<br>[`19-Way-Too-Long-Words`](./19-Way-Too-Long-Words-cf/19-Way-Too-Long-Words) | 1st review | **7 days** |
+| 2025-07-10 | [`9-how-many-numbers-are-smaller-than-the-current-number`](./9-how-many-numbers-are-smaller-than-the-current-number) | [`9-how-many-numbers-are-smaller-than-the-current-number_o`](./9-how-many-numbers-are-smaller-than-the-current-number/9-how-many-numbers-are-smaller-than-the-current-number_o)<br>[`9-how-many-numbers-are-smaller-than-the-current-number_bf.cpp`](./9-how-many-numbers-are-smaller-than-the-current-number/9-how-many-numbers-are-smaller-than-the-current-number_bf.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`25-find-pivot-index`](./25-find-pivot-index) | [`25-find-pivot-index.cpp`](./25-find-pivot-index/25-find-pivot-index.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`6-maximum-number-of-words-you-can-type`](./6-maximum-number-of-words-you-can-type) | [`6-maximum-number-of-words-you-can-type.cpp`](./6-maximum-number-of-words-you-can-type/6-maximum-number-of-words-you-can-type.cpp)<br>[`6-maximum-number-of-words-you-can-type`](./6-maximum-number-of-words-you-can-type/6-maximum-number-of-words-you-can-type) | 1st review | **7 days** |
+| 2025-07-10 | [`14-remove-duplicates-from-sorted-array`](./14-remove-duplicates-from-sorted-array) | [`14-remove-duplicates-from-sorted-array.cpp`](./14-remove-duplicates-from-sorted-array/14-remove-duplicates-from-sorted-array.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`8-running-sum-of-1d-array`](./8-running-sum-of-1d-array) | [`8-running-sum-of-1d-array.cpp`](./8-running-sum-of-1d-array/8-running-sum-of-1d-array.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`17-Generous-Kefa-cf`](./17-Generous-Kefa-cf) | [`17-Generous-Kefa.cpp`](./17-Generous-Kefa-cf/17-Generous-Kefa.cpp)<br>[`17-Generous-Kefa`](./17-Generous-Kefa-cf/17-Generous-Kefa) | 1st review | **7 days** |
+| 2025-07-10 | [`7-sum-of-all-odd-length-subarrays`](./7-sum-of-all-odd-length-subarrays) | [`7-sum-of-all-odd-length-subarrays_tp_o.cpp`](./7-sum-of-all-odd-length-subarrays/7-sum-of-all-odd-length-subarrays_tp_o.cpp)<br>[`7-sum-of-all-odd-length-subarrays_bf.cpp`](./7-sum-of-all-odd-length-subarrays/7-sum-of-all-odd-length-subarrays_bf.cpp)<br>[`7-sum-of-all-odd-length-subarrays`](./7-sum-of-all-odd-length-subarrays/7-sum-of-all-odd-length-subarrays)<br>[`7-sum-of-all-odd-length-subarrays_prefix_sum.cpp`](./7-sum-of-all-odd-length-subarrays/7-sum-of-all-odd-length-subarrays_prefix_sum.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`12-roman-to-integer`](./12-roman-to-integer) | [`12-roman-to-integer.cpp`](./12-roman-to-integer/12-roman-to-integer.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`5-find-numbers-with-even-number-of-digits`](./5-find-numbers-with-even-number-of-digits) | [`find-numbers-with-even-number-of-digits.cpp`](./5-find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`15-valid-parentheses`](./15-valid-parentheses) | [`15-valid-parentheses.cpp`](./15-valid-parentheses/15-valid-parentheses.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer`](./4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer) | [`4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.cpp`](./4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer/4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`18-Eugeny-and-PlayList-cf`](./18-Eugeny-and-PlayList-cf) | [`18-Eugeny-and-PlayList-bf.cpp`](./18-Eugeny-and-PlayList-cf/18-Eugeny-and-PlayList-bf.cpp)<br>[`18-Eugeny-and-PlayList`](./18-Eugeny-and-PlayList-cf/18-Eugeny-and-PlayList)<br>[`18-Eugeny-and-PlayList-o.cpp`](./18-Eugeny-and-PlayList-cf/18-Eugeny-and-PlayList-o.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`24-longest-subarray-of-1s-after-deleting-one-element`](./24-longest-subarray-of-1s-after-deleting-one-element) | [`24-longest-subarray-of-1s-after-deleting-one-element.cpp`](./24-longest-subarray-of-1s-after-deleting-one-element/24-longest-subarray-of-1s-after-deleting-one-element.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`13-longest-common-prefix`](./13-longest-common-prefix) | [`13-longest-common-prefix.cpp`](./13-longest-common-prefix/13-longest-common-prefix.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`10-build-array-from-permutation`](./10-build-array-from-permutation) | [`10-build-array-from-permutation.cpp`](./10-build-array-from-permutation/10-build-array-from-permutation.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`22-Next-Round-cf`](./22-Next-Round-cf) | [`22-Next-Round.cpp`](./22-Next-Round-cf/22-Next-Round.cpp)<br>[`22-Next-Round`](./22-Next-Round-cf/22-Next-Round) | 1st review | **7 days** |
+| 2025-07-10 | [`2-Count-Odd-Numbers-In-An-Interval-Range`](./2-Count-Odd-Numbers-In-An-Interval-Range) | [`Count-Odd-Numbers-In-An-Interval-Range-BF.cpp`](./2-Count-Odd-Numbers-In-An-Interval-Range/Count-Odd-Numbers-In-An-Interval-Range-BF.cpp)<br>[`Count-Odd-Numbers-In-An-Interval-Range-O.cpp`](./2-Count-Odd-Numbers-In-An-Interval-Range/Count-Odd-Numbers-In-An-Interval-Range-O.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`3-Number-Of-Steps-To-Reduce-A-Number-To-Zero`](./3-Number-Of-Steps-To-Reduce-A-Number-To-Zero) | [`Number-Of-Steps-To-Reduce-A-Number-To-Zero.cpp`](./3-Number-Of-Steps-To-Reduce-A-Number-To-Zero/Number-Of-Steps-To-Reduce-A-Number-To-Zero.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`21-A-Team-cf`](./21-A-Team-cf) | [`21-A-Team.cpp`](./21-A-Team-cf/21-A-Team.cpp)<br>[`21-A-Team`](./21-A-Team-cf/21-A-Team) | 1st review | **7 days** |
+| 2025-07-10 | [`16-watermelon-cf`](./16-watermelon-cf) | [`16-watermelon`](./16-watermelon-cf/16-watermelon)<br>[`16-watermelon.cpp`](./16-watermelon-cf/16-watermelon.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`23-Largest-Number`](./23-Largest-Number) | [`23-Largest-Number-o.cpp`](./23-Largest-Number/23-Largest-Number-o.cpp)<br>[`23-Largest-Number`](./23-Largest-Number/23-Largest-Number)<br>[`23-Largest-Number.cpp`](./23-Largest-Number/23-Largest-Number.cpp) | 1st review | **7 days** |
+| 2025-07-10 | [`20-Young-Physicist-cf`](./20-Young-Physicist-cf) | [`20-Young-Physicist.cpp`](./20-Young-Physicist-cf/20-Young-Physicist.cpp) | 1st review | **7 days** |
+| 2025-08-02 | [`1-Fizz-Buzz`](./1-Fizz-Buzz) | [`1-Fizz-Buzz-O.cpp`](./1-Fizz-Buzz/1-Fizz-Buzz-O.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`11-palindrome-number`](./11-palindrome-number) | [`11-palindrome-number`](./11-palindrome-number/11-palindrome-number)<br>[`11-palindrome-number.cpp`](./11-palindrome-number/11-palindrome-number.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`19-Way-Too-Long-Words-cf`](./19-Way-Too-Long-Words-cf) | [`19-Way-Too-Long-Words.cpp`](./19-Way-Too-Long-Words-cf/19-Way-Too-Long-Words.cpp)<br>[`19-Way-Too-Long-Words`](./19-Way-Too-Long-Words-cf/19-Way-Too-Long-Words) | 2nd review | **30 days** |
+| 2025-08-02 | [`9-how-many-numbers-are-smaller-than-the-current-number`](./9-how-many-numbers-are-smaller-than-the-current-number) | [`9-how-many-numbers-are-smaller-than-the-current-number_o`](./9-how-many-numbers-are-smaller-than-the-current-number/9-how-many-numbers-are-smaller-than-the-current-number_o)<br>[`9-how-many-numbers-are-smaller-than-the-current-number_bf.cpp`](./9-how-many-numbers-are-smaller-than-the-current-number/9-how-many-numbers-are-smaller-than-the-current-number_bf.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`25-find-pivot-index`](./25-find-pivot-index) | [`25-find-pivot-index.cpp`](./25-find-pivot-index/25-find-pivot-index.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`6-maximum-number-of-words-you-can-type`](./6-maximum-number-of-words-you-can-type) | [`6-maximum-number-of-words-you-can-type.cpp`](./6-maximum-number-of-words-you-can-type/6-maximum-number-of-words-you-can-type.cpp)<br>[`6-maximum-number-of-words-you-can-type`](./6-maximum-number-of-words-you-can-type/6-maximum-number-of-words-you-can-type) | 2nd review | **30 days** |
+| 2025-08-02 | [`14-remove-duplicates-from-sorted-array`](./14-remove-duplicates-from-sorted-array) | [`14-remove-duplicates-from-sorted-array.cpp`](./14-remove-duplicates-from-sorted-array/14-remove-duplicates-from-sorted-array.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`8-running-sum-of-1d-array`](./8-running-sum-of-1d-array) | [`8-running-sum-of-1d-array.cpp`](./8-running-sum-of-1d-array/8-running-sum-of-1d-array.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`17-Generous-Kefa-cf`](./17-Generous-Kefa-cf) | [`17-Generous-Kefa.cpp`](./17-Generous-Kefa-cf/17-Generous-Kefa.cpp)<br>[`17-Generous-Kefa`](./17-Generous-Kefa-cf/17-Generous-Kefa) | 2nd review | **30 days** |
+| 2025-08-02 | [`7-sum-of-all-odd-length-subarrays`](./7-sum-of-all-odd-length-subarrays) | [`7-sum-of-all-odd-length-subarrays_tp_o.cpp`](./7-sum-of-all-odd-length-subarrays/7-sum-of-all-odd-length-subarrays_tp_o.cpp)<br>[`7-sum-of-all-odd-length-subarrays_bf.cpp`](./7-sum-of-all-odd-length-subarrays/7-sum-of-all-odd-length-subarrays_bf.cpp)<br>[`7-sum-of-all-odd-length-subarrays`](./7-sum-of-all-odd-length-subarrays/7-sum-of-all-odd-length-subarrays)<br>[`7-sum-of-all-odd-length-subarrays_prefix_sum.cpp`](./7-sum-of-all-odd-length-subarrays/7-sum-of-all-odd-length-subarrays_prefix_sum.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`12-roman-to-integer`](./12-roman-to-integer) | [`12-roman-to-integer.cpp`](./12-roman-to-integer/12-roman-to-integer.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`5-find-numbers-with-even-number-of-digits`](./5-find-numbers-with-even-number-of-digits) | [`find-numbers-with-even-number-of-digits.cpp`](./5-find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`15-valid-parentheses`](./15-valid-parentheses) | [`15-valid-parentheses.cpp`](./15-valid-parentheses/15-valid-parentheses.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer`](./4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer) | [`4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.cpp`](./4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer/4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`18-Eugeny-and-PlayList-cf`](./18-Eugeny-and-PlayList-cf) | [`18-Eugeny-and-PlayList-bf.cpp`](./18-Eugeny-and-PlayList-cf/18-Eugeny-and-PlayList-bf.cpp)<br>[`18-Eugeny-and-PlayList`](./18-Eugeny-and-PlayList-cf/18-Eugeny-and-PlayList)<br>[`18-Eugeny-and-PlayList-o.cpp`](./18-Eugeny-and-PlayList-cf/18-Eugeny-and-PlayList-o.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`24-longest-subarray-of-1s-after-deleting-one-element`](./24-longest-subarray-of-1s-after-deleting-one-element) | [`24-longest-subarray-of-1s-after-deleting-one-element.cpp`](./24-longest-subarray-of-1s-after-deleting-one-element/24-longest-subarray-of-1s-after-deleting-one-element.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`13-longest-common-prefix`](./13-longest-common-prefix) | [`13-longest-common-prefix.cpp`](./13-longest-common-prefix/13-longest-common-prefix.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`10-build-array-from-permutation`](./10-build-array-from-permutation) | [`10-build-array-from-permutation.cpp`](./10-build-array-from-permutation/10-build-array-from-permutation.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`22-Next-Round-cf`](./22-Next-Round-cf) | [`22-Next-Round.cpp`](./22-Next-Round-cf/22-Next-Round.cpp)<br>[`22-Next-Round`](./22-Next-Round-cf/22-Next-Round) | 2nd review | **30 days** |
+| 2025-08-02 | [`2-Count-Odd-Numbers-In-An-Interval-Range`](./2-Count-Odd-Numbers-In-An-Interval-Range) | [`Count-Odd-Numbers-In-An-Interval-Range-BF.cpp`](./2-Count-Odd-Numbers-In-An-Interval-Range/Count-Odd-Numbers-In-An-Interval-Range-BF.cpp)<br>[`Count-Odd-Numbers-In-An-Interval-Range-O.cpp`](./2-Count-Odd-Numbers-In-An-Interval-Range/Count-Odd-Numbers-In-An-Interval-Range-O.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`3-Number-Of-Steps-To-Reduce-A-Number-To-Zero`](./3-Number-Of-Steps-To-Reduce-A-Number-To-Zero) | [`Number-Of-Steps-To-Reduce-A-Number-To-Zero.cpp`](./3-Number-Of-Steps-To-Reduce-A-Number-To-Zero/Number-Of-Steps-To-Reduce-A-Number-To-Zero.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`21-A-Team-cf`](./21-A-Team-cf) | [`21-A-Team.cpp`](./21-A-Team-cf/21-A-Team.cpp)<br>[`21-A-Team`](./21-A-Team-cf/21-A-Team) | 2nd review | **30 days** |
+| 2025-08-02 | [`16-watermelon-cf`](./16-watermelon-cf) | [`16-watermelon`](./16-watermelon-cf/16-watermelon)<br>[`16-watermelon.cpp`](./16-watermelon-cf/16-watermelon.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`23-Largest-Number`](./23-Largest-Number) | [`23-Largest-Number-o.cpp`](./23-Largest-Number/23-Largest-Number-o.cpp)<br>[`23-Largest-Number`](./23-Largest-Number/23-Largest-Number)<br>[`23-Largest-Number.cpp`](./23-Largest-Number/23-Largest-Number.cpp) | 2nd review | **30 days** |
+| 2025-08-02 | [`20-Young-Physicist-cf`](./20-Young-Physicist-cf) | [`20-Young-Physicist.cpp`](./20-Young-Physicist-cf/20-Young-Physicist.cpp) | 2nd review | **30 days** |
+| 2025-09-01 | [`1-Fizz-Buzz`](./1-Fizz-Buzz) | [`1-Fizz-Buzz-O.cpp`](./1-Fizz-Buzz/1-Fizz-Buzz-O.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`11-palindrome-number`](./11-palindrome-number) | [`11-palindrome-number`](./11-palindrome-number/11-palindrome-number)<br>[`11-palindrome-number.cpp`](./11-palindrome-number/11-palindrome-number.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`19-Way-Too-Long-Words-cf`](./19-Way-Too-Long-Words-cf) | [`19-Way-Too-Long-Words.cpp`](./19-Way-Too-Long-Words-cf/19-Way-Too-Long-Words.cpp)<br>[`19-Way-Too-Long-Words`](./19-Way-Too-Long-Words-cf/19-Way-Too-Long-Words) | 3rd review | **60 days** |
+| 2025-09-01 | [`9-how-many-numbers-are-smaller-than-the-current-number`](./9-how-many-numbers-are-smaller-than-the-current-number) | [`9-how-many-numbers-are-smaller-than-the-current-number_o`](./9-how-many-numbers-are-smaller-than-the-current-number/9-how-many-numbers-are-smaller-than-the-current-number_o)<br>[`9-how-many-numbers-are-smaller-than-the-current-number_bf.cpp`](./9-how-many-numbers-are-smaller-than-the-current-number/9-how-many-numbers-are-smaller-than-the-current-number_bf.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`25-find-pivot-index`](./25-find-pivot-index) | [`25-find-pivot-index.cpp`](./25-find-pivot-index/25-find-pivot-index.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`6-maximum-number-of-words-you-can-type`](./6-maximum-number-of-words-you-can-type) | [`6-maximum-number-of-words-you-can-type.cpp`](./6-maximum-number-of-words-you-can-type/6-maximum-number-of-words-you-can-type.cpp)<br>[`6-maximum-number-of-words-you-can-type`](./6-maximum-number-of-words-you-can-type/6-maximum-number-of-words-you-can-type) | 3rd review | **60 days** |
+| 2025-09-01 | [`14-remove-duplicates-from-sorted-array`](./14-remove-duplicates-from-sorted-array) | [`14-remove-duplicates-from-sorted-array.cpp`](./14-remove-duplicates-from-sorted-array/14-remove-duplicates-from-sorted-array.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`8-running-sum-of-1d-array`](./8-running-sum-of-1d-array) | [`8-running-sum-of-1d-array.cpp`](./8-running-sum-of-1d-array/8-running-sum-of-1d-array.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`17-Generous-Kefa-cf`](./17-Generous-Kefa-cf) | [`17-Generous-Kefa.cpp`](./17-Generous-Kefa-cf/17-Generous-Kefa.cpp)<br>[`17-Generous-Kefa`](./17-Generous-Kefa-cf/17-Generous-Kefa) | 3rd review | **60 days** |
+| 2025-09-01 | [`7-sum-of-all-odd-length-subarrays`](./7-sum-of-all-odd-length-subarrays) | [`7-sum-of-all-odd-length-subarrays_tp_o.cpp`](./7-sum-of-all-odd-length-subarrays/7-sum-of-all-odd-length-subarrays_tp_o.cpp)<br>[`7-sum-of-all-odd-length-subarrays_bf.cpp`](./7-sum-of-all-odd-length-subarrays/7-sum-of-all-odd-length-subarrays_bf.cpp)<br>[`7-sum-of-all-odd-length-subarrays`](./7-sum-of-all-odd-length-subarrays/7-sum-of-all-odd-length-subarrays)<br>[`7-sum-of-all-odd-length-subarrays_prefix_sum.cpp`](./7-sum-of-all-odd-length-subarrays/7-sum-of-all-odd-length-subarrays_prefix_sum.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`12-roman-to-integer`](./12-roman-to-integer) | [`12-roman-to-integer.cpp`](./12-roman-to-integer/12-roman-to-integer.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`5-find-numbers-with-even-number-of-digits`](./5-find-numbers-with-even-number-of-digits) | [`find-numbers-with-even-number-of-digits.cpp`](./5-find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`15-valid-parentheses`](./15-valid-parentheses) | [`15-valid-parentheses.cpp`](./15-valid-parentheses/15-valid-parentheses.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer`](./4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer) | [`4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.cpp`](./4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer/4-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`18-Eugeny-and-PlayList-cf`](./18-Eugeny-and-PlayList-cf) | [`18-Eugeny-and-PlayList-bf.cpp`](./18-Eugeny-and-PlayList-cf/18-Eugeny-and-PlayList-bf.cpp)<br>[`18-Eugeny-and-PlayList`](./18-Eugeny-and-PlayList-cf/18-Eugeny-and-PlayList)<br>[`18-Eugeny-and-PlayList-o.cpp`](./18-Eugeny-and-PlayList-cf/18-Eugeny-and-PlayList-o.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`24-longest-subarray-of-1s-after-deleting-one-element`](./24-longest-subarray-of-1s-after-deleting-one-element) | [`24-longest-subarray-of-1s-after-deleting-one-element.cpp`](./24-longest-subarray-of-1s-after-deleting-one-element/24-longest-subarray-of-1s-after-deleting-one-element.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`13-longest-common-prefix`](./13-longest-common-prefix) | [`13-longest-common-prefix.cpp`](./13-longest-common-prefix/13-longest-common-prefix.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`10-build-array-from-permutation`](./10-build-array-from-permutation) | [`10-build-array-from-permutation.cpp`](./10-build-array-from-permutation/10-build-array-from-permutation.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`22-Next-Round-cf`](./22-Next-Round-cf) | [`22-Next-Round.cpp`](./22-Next-Round-cf/22-Next-Round.cpp)<br>[`22-Next-Round`](./22-Next-Round-cf/22-Next-Round) | 3rd review | **60 days** |
+| 2025-09-01 | [`2-Count-Odd-Numbers-In-An-Interval-Range`](./2-Count-Odd-Numbers-In-An-Interval-Range) | [`Count-Odd-Numbers-In-An-Interval-Range-BF.cpp`](./2-Count-Odd-Numbers-In-An-Interval-Range/Count-Odd-Numbers-In-An-Interval-Range-BF.cpp)<br>[`Count-Odd-Numbers-In-An-Interval-Range-O.cpp`](./2-Count-Odd-Numbers-In-An-Interval-Range/Count-Odd-Numbers-In-An-Interval-Range-O.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`3-Number-Of-Steps-To-Reduce-A-Number-To-Zero`](./3-Number-Of-Steps-To-Reduce-A-Number-To-Zero) | [`Number-Of-Steps-To-Reduce-A-Number-To-Zero.cpp`](./3-Number-Of-Steps-To-Reduce-A-Number-To-Zero/Number-Of-Steps-To-Reduce-A-Number-To-Zero.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`21-A-Team-cf`](./21-A-Team-cf) | [`21-A-Team.cpp`](./21-A-Team-cf/21-A-Team.cpp)<br>[`21-A-Team`](./21-A-Team-cf/21-A-Team) | 3rd review | **60 days** |
+| 2025-09-01 | [`16-watermelon-cf`](./16-watermelon-cf) | [`16-watermelon`](./16-watermelon-cf/16-watermelon)<br>[`16-watermelon.cpp`](./16-watermelon-cf/16-watermelon.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`23-Largest-Number`](./23-Largest-Number) | [`23-Largest-Number-o.cpp`](./23-Largest-Number/23-Largest-Number-o.cpp)<br>[`23-Largest-Number`](./23-Largest-Number/23-Largest-Number)<br>[`23-Largest-Number.cpp`](./23-Largest-Number/23-Largest-Number.cpp) | 3rd review | **60 days** |
+| 2025-09-01 | [`20-Young-Physicist-cf`](./20-Young-Physicist-cf) | [`20-Young-Physicist.cpp`](./20-Young-Physicist-cf/20-Young-Physicist.cpp) | 3rd review | **60 days** |

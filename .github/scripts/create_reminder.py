@@ -16,7 +16,8 @@ def format_reminder(folder, revisit_date, period):
     return f"Reminder: Revisit '{folder}' in {period} on {revisit_date.strftime('%Y-%m-%d')}"
 
 def main():
-    base_path = os.path.dirname(os.path.abspath(__file__))
+    # base_path = os.path.dirname(os.path.abspath(__file__))
+    base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
     folders = get_question_folders(base_path)
     reminders = []
 

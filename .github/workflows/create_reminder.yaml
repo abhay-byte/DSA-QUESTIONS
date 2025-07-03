@@ -32,3 +32,5 @@ jobs:
           commit_message: "chore: update DSA reminders"
           branch: main
           file_pattern: 'reminder/reminders.md'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

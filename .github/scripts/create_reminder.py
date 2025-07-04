@@ -68,12 +68,12 @@ def main():
     upcoming_reminders.sort(key=lambda x: x[0])
     completed_reminders.sort(key=lambda x: x[0])
 
-    # Helper to get files inside a folder (relative to base_path)
-    def get_files_in_folder(folder):
+    # Helper to get only .cpp files inside a folder (relative to base_path)
+    def get_cpp_files_in_folder(folder):
         folder_path = os.path.join(base_path, folder)
         files = []
         for entry in os.scandir(folder_path):
-            if entry.is_file():
+            if entry.is_file() and entry.name.endswith('.cpp'):
                 files.append(entry.name)
         return files
 
@@ -92,11 +92,11 @@ def main():
             else:
                 days_left_str = f"**{days_left} days**"
             folder_path = os.path.join(".", folder)
-            files = get_files_in_folder(folder)
+            files = get_cpp_files_in_folder(folder)
             if files:
                 files_md = "<br>".join(f"[`{file}`]({os.path.join(folder_path, file)})" for file in files)
             else:
-                files_md = "_No files_"
+                files_md = "_No .cpp files_"
             f.write(f"| {date_str} | [`{folder}`]({folder_path}) | {files_md} | {review_label} | {days_left_str} |\n")
 
         if completed_reminders:
@@ -106,11 +106,11 @@ def main():
             for revisit_date, folder, review_label in completed_reminders:
                 date_str = revisit_date.strftime('%Y-%m-%d')
                 folder_path = os.path.join(".", folder)
-                files = get_files_in_folder(folder)
+                files = get_cpp_files_in_folder(folder)
                 if files:
                     files_md = "<br>".join(f"[`{file}`]({os.path.join(folder_path, file)})" for file in files)
                 else:
-                    files_md = "_No files_"
+                    files_md = "_No .cpp files_"
                 f.write(f"| {date_str} | [`{folder}`]({folder_path}) | {files_md} | {review_label} |\n")
 
     print(f"Reminders written to {reminder_file}")

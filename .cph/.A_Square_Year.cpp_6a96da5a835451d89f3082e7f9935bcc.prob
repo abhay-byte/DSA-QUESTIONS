@@ -1,0 +1,1 @@
+{"name":"A. Square Year","url":"https://codeforces.com/contest/2114/problem/A","interactive":false,"memoryLimit":0,"timeLimit":3000,"group":"Codeforces - Codeforces Round  1027 (Div. 3)","tests":[{"id":1751822596262,"input":"5\n0001\n1001\n1000\n4900\n2025\n","output":"0 1\n-1\n-1\n34 36\n20 25\n"}],"srcPath":"/home/abhay/Projects/DSA-QUESTIONS/A_Square_Year.cpp"}

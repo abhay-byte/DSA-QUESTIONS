@@ -11,6 +11,20 @@
 class Solution
 {
 public:
+    bool binarySearch(std::vector<int> &nums, int left, int right, int target)
+    {
+        while (left <= right)
+        {
+            int mid = left + (right - left) / 2;
+            if (nums[mid] == target)
+                return true;
+            else if (nums[mid] < target)
+                left = mid + 1;
+            else
+                right = mid - 1;
+        }
+        return false;
+    }
     bool search(std::vector<int> &nums, int target)
     {
         int k = 0;
@@ -23,34 +37,9 @@ public:
             }
         }
 
-        if (k > 0)
-        {
-            std::reverse(nums.begin(), nums.begin() + k);
-            std::reverse(nums.begin() + k, nums.end());
-            std::reverse(nums.begin(), nums.end());
-        }
-
-        int s = 0;
-        int e = nums.size() - 1;
-
-        while (s <= e)
-        {
-            int m = s + ((e - s) / 2);
-            if (nums[m] == target)
-            {
-                return true;
-            }
-            else if (nums[m] < target)
-            {
-                s = m + 1;
-            }
-            else
-            {
-                e = m - 1;
-            }
-        }
-
-        return false;
+        bool left = binarySearch(nums, 0, k - 1, target);
+        bool right = binarySearch(nums, k, nums.size() - 1, target);
+        return left || right;
     }
 };
 // @lc code=end
@@ -58,8 +47,8 @@ public:
 int main()
 {
     Solution obj;
-    std::vector<int> a = {1};
-    int target = 3;
+    std::vector<int> a = {2, 5, 6, 0, 0, 1, 2};
+    int target = 0;
 
     std::cout << obj.search(a, target);
 }
